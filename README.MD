@@ -2,7 +2,7 @@
 
 Estudo do caso(programação em cobol)
 
-<h1><img src="https://github.com/devMarcoAntonio/cobolapp/blob/master/projeto.jpg"></h1>
+<h1><img src="https://github.com/devMarcoAntonio/cakes/blob/master/projeto.jpg"></h1>
 
 ___
 
